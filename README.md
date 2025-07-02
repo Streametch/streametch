@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=shell)
+![Mikrotik] (https://img.shields.io/badge/-Mikrotik-black?style=flat-square&logo=mikrotik)
+![Proxmox](https://img.shields.io/badge/-Proxmox-FCA121?style=flat-square&logo=proxmox)
 <br />
 
